@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
             child: Row(
               children: [
                 Image.asset(
-                  "assets/images/pizz1.jpg",
+                  "assets/images/pizza5.png",
                   height: 100,
                   width: 100,
                   fit: BoxFit.fitWidth,
@@ -52,7 +52,7 @@ class HomeScreen extends StatelessWidget {
             child: Row(
               children: [
                 Image.asset(
-                  "assets/images/pizz1.jpg",
+                  "assets/images/pizza5.png",
                   height: 100,
                   width: 100,
                   fit: BoxFit.fitWidth,
@@ -79,7 +79,7 @@ class HomeScreen extends StatelessWidget {
             child: Row(
               children: [
                 Image.asset(
-                  "assets/images/pizz1.jpg",
+                  "assets/images/pizza5.png",
                   height: 100,
                   width: 100,
                   fit: BoxFit.fitWidth,
